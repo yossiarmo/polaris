@@ -25,7 +25,7 @@ require (
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/pkg/errors v0.9.1
-	gomodules.xyz/jsonpatch/v2 v2.2.0
+	gomodules.xyz/jsonpatch/v2 v2.3.0
 )
 
 require (
